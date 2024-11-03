@@ -1,4 +1,3 @@
-# tdsproj1
 # GitHub User and Repository Scraper
 
 - This project scrapes GitHub user data from London who have over 500 followers, collecting their profile and repository information.  
